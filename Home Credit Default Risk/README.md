@@ -1,6 +1,8 @@
 # Home Credit Default Risk
 
-This is for the Kaggle Project [here](https://www.kaggle.com/c/home-credit-default-risk)
+This is for the Kaggle Project [here](https://www.kaggle.com/c/home-credit-default-risk).
+
+--------------
 
 [Home Credit Task 1](https://github.com/dongzhang84/Kaggle/blob/master/Home%20Credit%20Default%20Risk/Home_Credit_1.ipynb): Load **application_train.csv** and **application_test.csv**, check missing data, encode categorical data, correlation, deploy baseline models (Logistic Regression, Random Forest, XGBoost). 
 
