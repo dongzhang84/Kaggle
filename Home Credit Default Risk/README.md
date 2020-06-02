@@ -15,3 +15,5 @@ This is for the Kaggle Project [here](https://www.kaggle.com/c/home-credit-defau
 
 [Home Credit Task 5](https://github.com/dongzhang84/Kaggle/blob/master/Home%20Credit%20Default%20Risk/Home_Credit_5.ipynb): Automated Feature Engineering Basics (Featuretools).
 
+[Home Credit Task 6](https://github.com/dongzhang84/Kaggle/blob/master/Home%20Credit%20Default%20Risk/Home_Credit_6.ipynb): Feature Selection Pipeline.
+
