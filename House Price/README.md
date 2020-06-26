@@ -8,4 +8,6 @@ This is the project for Kaggle [House Price Project](https://www.kaggle.com/c/ho
 
 [House Price version II](https://github.com/dongzhang84/Kaggle/blob/master/House%20Price/House_Price_v2.ipynb): Follow Kaggle [notebook](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 
-[House Price version III](https://github.com/dongzhang84/Kaggle/blob/master/House%20Price/House_Price_v3.ipynb): Usesion I  version II methods to fill missing data, and version I models. 
+[House Price version III](https://github.com/dongzhang84/Kaggle/blob/master/House%20Price/House_Price_v3.ipynb): Use version II methods to fill missing data, and version I models. 
+
+[House Price version IV](https://github.com/dongzhang84/Kaggle/blob/master/House%20Price/House_Price_v4.ipynb): A simplier way to do that, and better, see this [link](https://www.kaggle.com/apapiu/regularized-linear-models)
